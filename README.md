@@ -24,7 +24,7 @@
   <br />
 
   <img
-    src="https://github.com/miinhho/project_ai_summarizer-clonecoding/blob/main/images/sample.png?raw=true"
+    src="./images/sample.png"
     alt="sample usage"
   />
   <p>sample usage</p>
